@@ -1,0 +1,30 @@
+{
+    "name": "SpaceSurferREALjsversion",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "storyboard": "*",
+        "corgio": "*",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.41",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
